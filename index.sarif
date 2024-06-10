@@ -23,6 +23,11 @@
       "artifacts": [
         {
           "location": {
+            "uri": "file:///Users/O56075/Development/VSCodeProjects/RND/ecmalint/eslint.config.mjs"
+          }
+        },
+        {
+          "location": {
             "uri": "file:///Users/O56075/Development/VSCodeProjects/RND/ecmalint/index.js"
           }
         }
@@ -38,7 +43,7 @@
               "physicalLocation": {
                 "artifactLocation": {
                   "uri": "file:///Users/O56075/Development/VSCodeProjects/RND/ecmalint/index.js",
-                  "index": 0
+                  "index": 1
                 },
                 "region": {
                   "startLine": 7,
